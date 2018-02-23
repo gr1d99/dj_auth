@@ -1,0 +1,4 @@
+.idea/
+manage.py
+dj_api_auth/
+__pycache__/
